@@ -1,3 +1,2 @@
-###
-Shopify theme developement Kit
-###
+# Shopify theme developement Kit
+
